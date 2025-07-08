@@ -64,7 +64,7 @@
 ## <div align="center">🌐 Connect With Me</div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/md-tanvir-hasan16" target="_blank">
+  <a href="https://www.linkedin.com/in/md-tanvir-hasan16" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/tanvir.alien16" target="_blank">
