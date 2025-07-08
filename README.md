@@ -1,6 +1,7 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.Tanvir+Hasan;Frontend+Developer;Creative+Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+This+is+Md.Tanvir+Hasan;Full+Stack+Developer;JavaScript+Expert;" alt="Typing SVG" />
+</p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -59,11 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirhasanp&bg_color=0D1117&color=C9D1D9&line=F75C7E&point=F8D866&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## <div align="center">🏆 GitHub Achievements</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanvirhasanp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
 
 ## <div align="center">🌐 Connect With Me</div>
 
@@ -86,13 +82,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## <div align="center">💼 Featured Projects</div>
 
-<div align="center">
-  <a href="https://tanvir25.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanvirhasanp&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9" alt="Portfolio"/>
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20connect%20and%20build%20something%20amazing%20together!&descAlignY=80&descAlign=50" width="100%"/>
