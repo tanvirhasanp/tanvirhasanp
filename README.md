@@ -19,7 +19,7 @@
   
   🔭 **Currently Working On:** Building responsive web applications with React & Modern CSS
   
-  🌱 **Learning:** Advanced React patterns, TypeScript, and Node.js
+  🌱 **Learning:** Advanced React patterns and Node.js
   
   👯 **Looking to collaborate on:** Open source projects and innovative web solutions
   
@@ -50,10 +50,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanvirhasanp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirhasanp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirhasanp&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F75C7E&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
