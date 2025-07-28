@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+This+is+Md.Tanvir+Hasan;Full+Stack+Developer;JavaScript+Expert;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+This+is+Md.Tanvir+Hasan;Front+End+Developer;JavaScript+Expert;" alt="Typing SVG" />
 </p>
 
 
@@ -23,7 +23,7 @@
   
   👯 **Looking to collaborate on:** Open source projects and innovative web solutions
   
-  💬 **Ask me about:** HTML, CSS, JavaScript, React, and Full Stack Development
+  💬 **Ask me about:** HTML, CSS, JavaScript, React, and Front End Development
   
   📫 **Reach me at:** tanvirhasan18@cse.pstu.ac.bd
   
