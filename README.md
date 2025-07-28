@@ -23,7 +23,7 @@
   
   👯 **Looking to collaborate on:** Open source projects and innovative web solutions
   
-  💬 **Ask me about:** HTML, CSS, JavaScript, React, and Frontend Development
+  💬 **Ask me about:** HTML, CSS, JavaScript, React, and Full Stack Development
   
   📫 **Reach me at:** tanvirhasan18@cse.pstu.ac.bd
   
@@ -38,7 +38,7 @@
 ## <div align="center">🛠️ Tech Stack & Tools</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,figma,nodejs,mongodb,mysql,python,php,cpp,c,arduino,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,figma,nodejs,mongodb,mysql,firebase,python,php,cpp,c,arduino,linux&perline=8" />
 </div>
 
 <div align="center">
